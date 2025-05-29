@@ -1,6 +1,6 @@
 # SCUM-Profile-UEVR
 
-# 🎮 SCUM Gamepad Control Scheme - SCUM Profile UEVR (Vilmar de Paula)
+# 🎮 SCUM Profile UEVR Control Scheme (Vilmar de Paula)
 
 This document details the full control scheme for **SCUM** using motion controllers.  
 The commands have been carefully mapped to provide a smooth and intuitive experience for both combat and navigation.  
