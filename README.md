@@ -12,6 +12,7 @@ The plugin used: **JoyToKey (mark-mon)**.
 
 | Function             | Command             |
 |----------------------|---------------------|
+| Show mouse pointer   | LB + LT             |
 | Move mouse pointer   | Left Joystick       |
 | Right mouse button   | LT (Left Trigger)   |
 | Left mouse button    | RT (Right Trigger)  |
